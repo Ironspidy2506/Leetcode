@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1476-subrectangle-queries](https://github.com/Ironspidy2506/Leetcode-Tracker/tree/master/1476-subrectangle-queries) |
+| [1980-find-unique-binary-string](https://github.com/Ironspidy2506/Leetcode-Tracker/tree/master/1980-find-unique-binary-string) |
 ## Design
 |  |
 | ------- |
@@ -16,9 +17,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1980-find-unique-binary-string](https://github.com/Ironspidy2506/Leetcode-Tracker/tree/master/1980-find-unique-binary-string) |
 | [3945-digit-frequency-score](https://github.com/Ironspidy2506/Leetcode-Tracker/tree/master/3945-digit-frequency-score) |
 ## Math
 |  |
 | ------- |
 | [3945-digit-frequency-score](https://github.com/Ironspidy2506/Leetcode-Tracker/tree/master/3945-digit-frequency-score) |
+## String
+|  |
+| ------- |
+| [1980-find-unique-binary-string](https://github.com/Ironspidy2506/Leetcode-Tracker/tree/master/1980-find-unique-binary-string) |
+## Backtracking
+|  |
+| ------- |
+| [1980-find-unique-binary-string](https://github.com/Ironspidy2506/Leetcode-Tracker/tree/master/1980-find-unique-binary-string) |
 <!---LeetCode Topics End-->
