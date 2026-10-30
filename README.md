@@ -13,4 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1476-subrectangle-queries](https://github.com/Ironspidy2506/Leetcode-Tracker/tree/master/1476-subrectangle-queries) |
+## Hash Table
+|  |
+| ------- |
+| [3945-digit-frequency-score](https://github.com/Ironspidy2506/Leetcode-Tracker/tree/master/3945-digit-frequency-score) |
+## Math
+|  |
+| ------- |
+| [3945-digit-frequency-score](https://github.com/Ironspidy2506/Leetcode-Tracker/tree/master/3945-digit-frequency-score) |
 <!---LeetCode Topics End-->
