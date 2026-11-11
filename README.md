@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0748-shortest-completing-word](https://github.com/Ironspidy2506/Leetcode/tree/master/0748-shortest-completing-word) |
 | [1476-subrectangle-queries](https://github.com/Ironspidy2506/Leetcode-Tracker/tree/master/1476-subrectangle-queries) |
 | [1980-find-unique-binary-string](https://github.com/Ironspidy2506/Leetcode-Tracker/tree/master/1980-find-unique-binary-string) |
 ## Design
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0748-shortest-completing-word](https://github.com/Ironspidy2506/Leetcode/tree/master/0748-shortest-completing-word) |
 | [1980-find-unique-binary-string](https://github.com/Ironspidy2506/Leetcode-Tracker/tree/master/1980-find-unique-binary-string) |
 | [3945-digit-frequency-score](https://github.com/Ironspidy2506/Leetcode-Tracker/tree/master/3945-digit-frequency-score) |
 ## Math
@@ -26,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0748-shortest-completing-word](https://github.com/Ironspidy2506/Leetcode/tree/master/0748-shortest-completing-word) |
 | [1980-find-unique-binary-string](https://github.com/Ironspidy2506/Leetcode-Tracker/tree/master/1980-find-unique-binary-string) |
 ## Backtracking
 |  |
