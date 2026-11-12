@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-shortest-completing-word](https://github.com/Ironspidy2506/Leetcode/tree/master/0748-shortest-completing-word) |
 | [1476-subrectangle-queries](https://github.com/Ironspidy2506/Leetcode-Tracker/tree/master/1476-subrectangle-queries) |
 | [1980-find-unique-binary-string](https://github.com/Ironspidy2506/Leetcode-Tracker/tree/master/1980-find-unique-binary-string) |
+| [3925-concatenate-array-with-reverse](https://github.com/Ironspidy2506/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Design
 |  |
 | ------- |
@@ -34,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1980-find-unique-binary-string](https://github.com/Ironspidy2506/Leetcode-Tracker/tree/master/1980-find-unique-binary-string) |
+## Simulation
+|  |
+| ------- |
+| [3925-concatenate-array-with-reverse](https://github.com/Ironspidy2506/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 <!---LeetCode Topics End-->
