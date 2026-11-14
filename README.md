@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [2739-total-distance-traveled](https://github.com/Ironspidy2506/Leetcode/tree/master/2739-total-distance-traveled) |
 | [3945-digit-frequency-score](https://github.com/Ironspidy2506/Leetcode-Tracker/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
@@ -38,5 +39,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2739-total-distance-traveled](https://github.com/Ironspidy2506/Leetcode/tree/master/2739-total-distance-traveled) |
 | [3925-concatenate-array-with-reverse](https://github.com/Ironspidy2506/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 <!---LeetCode Topics End-->
